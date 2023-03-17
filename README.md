@@ -1,1 +1,1 @@
-# Case_Study
+# Case_Study: Business Case Study from Scaler Academy
